@@ -9,6 +9,6 @@
 
 👨🏻‍🎓🖥️ Estudante de Desenvolvimento de Sistemas (Java e PostgreSQL), Desenvolvimento de Front-End e Desenvolvimento Web;
 
-🤖 Um jovem entusiasta da tecnologia que está buscando estudar, se aperfeiçoar e continuar em constante evolução na área;
+🤖 Um jovem entusiasta da tecnologia, novato na área, que está buscando estudar, se aperfeiçoar e continuar em constante evolução na área;
 
 💼 Buscando uma primeira experiência profissional no ramo da programação;
