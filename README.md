@@ -7,7 +7,7 @@
 ## Um pouco mais sobre mim! 🖐️
 👨🏻‍🎓 Cursando atualmente o Ensino Médio e Aluno do Programa Jovem Programador do Senac SC;
 
-👨🏻‍🎓🖥️ Estudante de Desenvolvimento de Sistemas (Java <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F19%2F57803385-45802780-7726-11e9-84d9-2e4c4ca8bcdb.png" width="20" heigth="20" img> e PostgreSQL), Desenvolvimento de Front-End e Desenvolvimento Web;
+👨🏻‍🎓🖥️ Estudante de Desenvolvimento de Sistemas (Java e PostgreSQL), Desenvolvimento de Front-End e Desenvolvimento Web;
 
 🤖 Um jovem entusiasta da tecnologia, novato na área, que está buscando estudar, se aperfeiçoar e continuar em constante evolução na área;
 
