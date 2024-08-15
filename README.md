@@ -6,6 +6,9 @@
 
 # Um pouco mais sobre mim! 🖐️
 👨🏻‍🎓 Cursando atualmente o Ensino Médio e Aluno do Programa Jovem Programador do Senac SC;
+
 👨🏻‍🎓🖥️ Estudante de Desenvolvimento de Sistemas, Desenvolvimento de Front-End e Desenvolvimento Web;
+
 🤖 Um jovem entusiasta da tecnologia que está buscando estudar, se aperfeiçoar e continuar em constante evolução na área;
+
 💼 Buscando uma primeira experiência profissional no ramo da programação;
