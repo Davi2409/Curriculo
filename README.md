@@ -12,3 +12,6 @@
 🤖 Um jovem entusiasta da tecnologia, novato na área, que está buscando estudar, se aperfeiçoar e continuar em constante evolução na área;
 
 💼 Buscando uma primeira experiência profissional no ramo da programação;
+
+## Skills
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
