@@ -1,7 +1,3 @@
-body {
-  background-color: cyan;
-  }
-  <body>
 # Olá, seja muito bem-vindo ao meu perfil no Git!! 😉
 ## Sou o Davi e sinta-se a vontade para explorar minha conta! ##
 <img src="https://camo.githubusercontent.com/1e89f0a219991e3458d0806a14d1787966473550a46b26a562892c73347e1ff6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4461766932343039267468656d653d676f7468616d2673686f775f69636f6e733d7472756526686964655f626f726465723d7472756526636f756e745f707269766174653d74727565" width="500" heigth="350" />
@@ -27,4 +23,3 @@ body {
   <a href="mailto:daviartuso2409@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
-</body>
