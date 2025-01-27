@@ -10,6 +10,8 @@
 
 💼 Buscando uma primeira experiência profissional no ramo da programação;
 
+🥉 Terceiro lugar estadual no Hackaton do Programa Jovem Programador do Senac Chapecó-SC
+
 ## Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
